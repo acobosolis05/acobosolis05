@@ -1,7 +1,7 @@
 # Hello! I'm AIRAM COBO! Data Analyst
 
 ## About me
-Hello! I'm a passionate Data Analyst with a Ph.D. in Chemistry Sciences with a keen focus on PowerBI and database. My journey in the tech world began in 2022 as beneficiary of MisiónTIC 2022 program, a strategy of the Colombian government to train young and adults in software development. 
+Hello! I'm a passionate Data Analyst with a Ph.D. in Chemical Sciences with a keen focus on PowerBI and database. My journey in the tech world began in 2022 as beneficiary of MisiónTIC 2022 program, a strategy of the Colombian government to train young and adults in software development. 
 
 
 ## Contact me
@@ -25,9 +25,9 @@ As I continue my journey as a Data Analyst, I am always on the lookout for colla
 Data Analyst with experience in obtaining, collecting, cleaning, and analyzing data in scientific contexts. I seek to contribute to my personal and professional growth by using mathematical models that allow companies to obtain relevant information for making data-driven decisions.
 
 ## Hobbies
-• photography
-• drawing
-• reading
+• Photography
+• Drawing
+• Reading
 
 ## Languages
 
