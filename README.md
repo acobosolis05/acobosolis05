@@ -26,7 +26,9 @@ Data Analyst with experience in obtaining, collecting, cleaning, and analyzing d
 
 ## Hobbies
 • Photography
+
 • Drawing
+
 • Reading
 
 ## Languages
